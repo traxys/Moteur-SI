@@ -1,0 +1,5 @@
+Nous avons a notre dispostion differentes energies avec lesquelles nous pouvons faire fonctionner notre moteur.
+Premierement nous pourrions utiliser l'energie hydraulique mais cela ne permet pas de remplir la contrainte de la taille , puisque pour uen autonomie de 5 minutes le reservoir serait beaucoup trop grand
+L'energie electrique n'est pas une option non plus , étant donné que il est presque impossible de faire un systeme electrique avec seulement des materiaux de recupération
+Puisque elle ne repond pas a la contrainte d'autonomie l'energie musuclaire est exclue , et pour des raisons pratiques evidentes l'energie éolienne est impossible , tout comme les energies complexes.
+Il ne reste donc que l'energie thermique qui est exploitable , et celle ci peut etre utilisé de diverses manieres mais la plus simple possible semble être une simple roue actionnée par un combustible , au contraire d'autres technologies comme le moteur stirling qui semble être plus complexe.
